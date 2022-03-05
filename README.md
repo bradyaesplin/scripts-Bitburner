@@ -34,5 +34,5 @@ These scripts were written in the in-game editor, you can just copy and paste th
 - [ ] Automate Sell for stock market
 - [ ] Automate Buy/Sell for stock market
 - [ ] Research BitNodes
-- [ ] Iterate adn improve all automation above
+- [ ] Iterate and improve all automation above
 - [ ] ?
