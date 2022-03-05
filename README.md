@@ -1,7 +1,7 @@
 # scripts-Bitburner
 change control of scripts
 
-# Grey Hack
+# Bitburner
 Steam link: [here](https://store.steampowered.com/app/1812820/Bitburner/)
 (Free) Game mimics a Unix enviroment, played Player vs. Enviroment. Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.
 
