@@ -11,28 +11,47 @@ These scripts were written in the in-game editor, you can just copy and paste th
 
 ## To Do List
 - [x] Copy and paste from tutorial
-- [ ] Re-learn Javascript at freecodecamp.com
-  - [x] 10%
-  - [x] 20%
-  - [ ] 30%
-  - [ ] 40%
-  - [ ] 50%
-  - [ ] 60%
-  - [ ] 70%
-  - [ ] 80%
-  - [ ] 90%
-  - [ ] 100%
-- [x] Automate initial server buying and targeting
-- [ ] Batch script to grow(), weaken(), hack() at correct timing
-- [ ] Automate target selection?
-- [ ] Automate writing programs (or buying TOR browser [in-game] and buying them from darkweb [in-game])
-- [ ] Automate joining Factions
-- [ ] Automate working for Factions
-- [ ] Automate working for companies
-- [ ] Automate buying and installing Augments
+- [ ] Re-learn Basic Javascript at freecodecamp.com
+ - [x] 30%
+ - [ ] 40%
+ - [ ] 50%
+ - [ ] 60%
+ - [ ] 70%
+ - [ ] 80%
+ - [ ] 90%
+ - [ ] 100%
+
+- [x] Research BitNodes
+ - [ ] Script to automate buying and MAX upgrading 25 bitnodes
+
+- [ ] Script writing list(s) of game servers to a file (or arrays)
+ - [ ] Automate target selection?
+  - [ ] Script to compare Max Money to Security Level
+ - [ ] Script gaining root access to each server
+  - [ ] Script scp target hack to servers
+   - [ ] Script run target hack (threads)
+
+- [x] Automate initial private server buying and targeting
+ - [ ] Script starting hack(), grow(), weaken() at same time
+ - [ ] Figure out batch scripting   
+  - [ ] Script to grow(), weaken(), hack() at correct timing
+  - [ ] Script to figure dynamic thread distribution ratios
+
 - [ ] Research [in-game] stock market 
-- [ ] Automate Sell for stock market
-- [ ] Automate Buy/Sell for stock market
-- [ ] Research BitNodes
-- [ ] Iterate and improve all automation above
-- [ ] ?
+ - [ ] Automate Sell for stock market
+ - [ ] Automate Long Buy/Sell for stock market
+ - [ ] Automate Short Buy/Sell for stock market
+ 
+- [ ] Script autorun for all above
+- [ ] alias for autorun script 
+
+## Much later (when appropriate APIs unlock)
+
+- [ ] Automate buying TOR browser [in-game] and buying executables
+
+- [ ] Automate joining Factions
+ - [ ] Automate working for Factions
+
+- [ ] Automate working for companies
+
+- [ ] Automate buying and installing Augments
