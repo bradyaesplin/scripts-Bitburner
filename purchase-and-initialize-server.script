@@ -1,0 +1,22 @@
+// How much RAM the server will have. In this case, it'll
+// be 512GB.
+var ram = 512;
+
+// Iterator we'll use for our loop
+var i = 0;
+
+// purchase server
+while (i < 1) {
+	// Check if we have enough money to purchase a server
+	if (getServerMoneyAvailable("home") > getPurchasedServerCost(ram)) {
+		// If we have enough money, then:
+		//  1. Purchase the server
+		//  2. Copy our support script onto the newly-purchased server
+		//  3. Run our support script on the newly-purchased server with 222 threads
+		//  4. Increment our iterator to indicate that we've bought a new server
+		var hostname = purchaseServer("support-serv-" + i, ram);
+		scp("support-template.script", hostname);
+		exec("support-template.script", hostname, 222);
+		++i;
+	}
+}
