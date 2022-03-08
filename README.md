@@ -12,24 +12,25 @@ These scripts were written in the in-game editor, you can just copy and paste th
 ## To Do List
 - [x] Copy and paste from tutorial
 - [ ] Re-learn Basic Javascript at freecodecamp.com
- - [x] 30%
- - [ ] 40%
- - [ ] 50%
+ - [x] 50%
  - [ ] 60%
  - [ ] 70%
  - [ ] 80%
  - [ ] 90%
  - [ ] 100%
+- [ ] Go Deeper into Javascript at freecodecamp.com 
 
 - [x] Research BitNodes
- - [ ] Script to automate buying and MAX upgrading 25 bitnodes
+ - [x] Script to automate buying and MAX upgrading 25 bitnodes
+- [ ] Write my own script to do the above
 
-- [ ] Script writing list(s) of game servers to a file (or arrays)
+- [x] Script writing list(s) of game servers to a file (or arrays)
  - [ ] Automate target selection?
   - [ ] Script to compare Max Money to Security Level
- - [ ] Script gaining root access to each server
+ - [x] Script gaining root access to each server
   - [ ] Script scp target hack to servers
    - [ ] Script run target hack (threads)
+- [ ] Write my own script to do the above
 
 - [x] Automate initial private server buying and targeting
  - [ ] Script starting hack(), grow(), weaken() at same time
@@ -37,10 +38,11 @@ These scripts were written in the in-game editor, you can just copy and paste th
   - [ ] Script to grow(), weaken(), hack() at correct timing
   - [ ] Script to figure dynamic thread distribution ratios
 
-- [ ] Research [in-game] stock market 
+- [x] Research [in-game] stock market 
  - [ ] Automate Sell for stock market
- - [ ] Automate Long Buy/Sell for stock market
+ - [x] Automate Long Buy/Sell for stock market
  - [ ] Automate Short Buy/Sell for stock market
+- [ ] Write my own script to do the above
  
 - [ ] Script autorun for all above
 - [ ] alias for autorun script 
