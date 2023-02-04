@@ -1,3 +1,7 @@
+## Deprecated, do not use ##
+
+# Scripting in game is now pure .js, I am leaving this code for demonstration purposes. I intend to start a new repository for my .js scripts
+
 # scripts-Bitburner
 change control of scripts
 
