@@ -7,15 +7,15 @@ Steam link: [here](https://store.steampowered.com/app/1812820/Bitburner/)
 
 The game uses Javascript as its main programming language. Scripts can be written with as either a .script file, which is the in-game scripting method, or as a .js file.
 
-These scripts were written in the in-game edito.
+These scripts were written in the in-game editor.
 
 ## To Do List
 - [ ] Complete Basic Javascript at freecodecamp.com
  - [x] 90%
  - [ ] 100%
-- [ ] Review ES6 at freecodecamp.com
-- [ ] Review RegEx at freecodecamp.com
-- [ ] Review debugging at freecodecamp.com
+- [X] Review ES6 at freecodecamp.com
+- [X] Review RegEx at freecodecamp.com
+- [X] Review debugging at freecodecamp.com
 - [ ] Basic Data Structures at freecodecamp.com
 - [ ] Basic Algorithm Scripting at freecodecamp.com
 - [ ] Object Oriented Programming at freecodecamp.com
